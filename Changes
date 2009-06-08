@@ -2,6 +2,10 @@ TODO:
     - Add --backup (or --no-backup) option
     - Change --package option to --class
 
+0.024 Monday June 08 11:06:08 PDT 2009:
+    - Added --class as an alias to --package
+    - Added "Apache2 and FastCGI on Ubuntu" tutorial
+
 0.023 Monday June 08 10:21:26 PDT 2009:
     - Have minimum Moose version of 0.76 (thanks KAARE)
 
