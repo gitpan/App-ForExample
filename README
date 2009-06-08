@@ -3,7 +3,7 @@ NAME
     monit, ..., configuration hell
 
 VERSION
-    Version 0.022
+    Version 0.023
 
 SYNOPSIS
         # To output a FastCGI (ExternalServer)/Apache configuration (with monit stub and start-stop script), run:

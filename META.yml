@@ -24,9 +24,10 @@ no_index:
 requires:
   Carp: 0
   Getopt::Chain: 0.014
+  Moose: 0.76
   Path::Class: 0
   Template: 0
 resources:
   license: http://dev.perl.org/licenses/
   repository: http://github.com/robertkrimen/App-ForExample/tree/master
-version: 0.022
+version: 0.023
